@@ -1,0 +1,1 @@
+The Project is of Finance Domain. Power BI is used to make a financial Dashboard to take insights of Revenue across various stores present in different regions and countries. The interactive Dashboard can also be used to find Year wise,Quarter Wise and Store wise Revenue across different regions and Countries
